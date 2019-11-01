@@ -34,6 +34,7 @@ jetificableGroups.json
 # node.js
 #
 node_modules/
+src/node_modules/
 npm-debug.log
 yarn-error.log
 
@@ -68,3 +69,21 @@ package-lock.json
 
 # jetificableGroups.json
 jetificableGroups.json
+
+
+__tests__/
+android/
+ios/
+yarn.lock
+package.json
+metro.config.js
+babel.config
+app.json
+.watchmanconfig
+babel.config.js
+.prettierrc.js
+.gitattributes
+.flowconfig
+.eslintrc.js
+.buckconfig
+src/index.js

@@ -10,7 +10,7 @@ class RNComponentTest extends Component {
 
     return (
       <View
-        styles={{ width: 100, height: 100, backgroundColor: 'yellow' }}
+        style={{ flex: 1, width: 100, height: 100, backgroundColor: 'green', borderWidth: 2, }}
       />
     );
   }

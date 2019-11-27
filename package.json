@@ -1,10 +1,14 @@
 {
   "name": "rn-component-test",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "16.9.0",
+    "react-native": "0.61.4"
   },
   "repository": {
     "type": "git",

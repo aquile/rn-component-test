@@ -1,4 +1,3 @@
-import {AppRegistry} from 'react-native';
-import RNComponentTest from './src/RNComponentTest';
+import  RNComponentTest from './src/RNComponentTest';
 
-AppRegistry.registerComponent('RNCopmonentTest', () => RNComponentTest);
+export default RNComponentTest;
